@@ -1,0 +1,10 @@
+c:\users\behzad\documents\visual studio 2015\Projects\Iau.NotifCenter\Iau.NotifCenter.DataAccess\obj\Debug\Iau.NotifCenter.DataAccess.csprojResolveAssemblyReference.cache
+c:\users\behzad\documents\visual studio 2015\Projects\Iau.NotifCenter\Iau.NotifCenter.DataAccess\bin\Debug\Iau.NotifCenter.DataAccess.dll.config
+c:\users\behzad\documents\visual studio 2015\Projects\Iau.NotifCenter\Iau.NotifCenter.DataAccess\bin\Debug\Iau.NotifCenter.DataAccess.dll
+c:\users\behzad\documents\visual studio 2015\Projects\Iau.NotifCenter\Iau.NotifCenter.DataAccess\bin\Debug\Iau.NotifCenter.DataAccess.pdb
+c:\users\behzad\documents\visual studio 2015\Projects\Iau.NotifCenter\Iau.NotifCenter.DataAccess\bin\Debug\EntityFramework.dll
+c:\users\behzad\documents\visual studio 2015\Projects\Iau.NotifCenter\Iau.NotifCenter.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\behzad\documents\visual studio 2015\Projects\Iau.NotifCenter\Iau.NotifCenter.DataAccess\bin\Debug\EntityFramework.xml
+c:\users\behzad\documents\visual studio 2015\Projects\Iau.NotifCenter\Iau.NotifCenter.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\behzad\documents\visual studio 2015\Projects\Iau.NotifCenter\Iau.NotifCenter.DataAccess\obj\Debug\Iau.NotifCenter.DataAccess.dll
+c:\users\behzad\documents\visual studio 2015\Projects\Iau.NotifCenter\Iau.NotifCenter.DataAccess\obj\Debug\Iau.NotifCenter.DataAccess.pdb

@@ -1,0 +1,17 @@
+c:\users\behzad\documents\visual studio 2015\Projects\Iau.NotifCenter\Iau.NotifCenter.UnitTest\obj\Debug\Iau.NotifCenter.UnitTest.csprojResolveAssemblyReference.cache
+c:\users\behzad\documents\visual studio 2015\Projects\Iau.NotifCenter\Iau.NotifCenter.UnitTest\bin\Debug\Iau.NotifCenter.UnitTest.dll
+c:\users\behzad\documents\visual studio 2015\Projects\Iau.NotifCenter\Iau.NotifCenter.UnitTest\bin\Debug\Iau.NotifCenter.UnitTest.pdb
+c:\users\behzad\documents\visual studio 2015\Projects\Iau.NotifCenter\Iau.NotifCenter.UnitTest\bin\Debug\Iau.NotifCenter.Business.dll
+c:\users\behzad\documents\visual studio 2015\Projects\Iau.NotifCenter\Iau.NotifCenter.UnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\behzad\documents\visual studio 2015\Projects\Iau.NotifCenter\Iau.NotifCenter.UnitTest\bin\Debug\Iau.NotifCenter.DataAccess.dll
+c:\users\behzad\documents\visual studio 2015\Projects\Iau.NotifCenter\Iau.NotifCenter.UnitTest\bin\Debug\Cryptography.dll
+c:\users\behzad\documents\visual studio 2015\Projects\Iau.NotifCenter\Iau.NotifCenter.UnitTest\bin\Debug\EntityFramework.dll
+c:\users\behzad\documents\visual studio 2015\Projects\Iau.NotifCenter\Iau.NotifCenter.UnitTest\bin\Debug\Iau.NotifCenter.Business.pdb
+c:\users\behzad\documents\visual studio 2015\Projects\Iau.NotifCenter\Iau.NotifCenter.UnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+c:\users\behzad\documents\visual studio 2015\Projects\Iau.NotifCenter\Iau.NotifCenter.UnitTest\bin\Debug\Iau.NotifCenter.DataAccess.pdb
+c:\users\behzad\documents\visual studio 2015\Projects\Iau.NotifCenter\Iau.NotifCenter.UnitTest\bin\Debug\EntityFramework.xml
+c:\users\behzad\documents\visual studio 2015\Projects\Iau.NotifCenter\Iau.NotifCenter.UnitTest\obj\Debug\Iau.NotifCenter.UnitTest.dll
+c:\users\behzad\documents\visual studio 2015\Projects\Iau.NotifCenter\Iau.NotifCenter.UnitTest\obj\Debug\Iau.NotifCenter.UnitTest.pdb
+c:\users\behzad\documents\visual studio 2015\Projects\Iau.NotifCenter\Iau.NotifCenter.UnitTest\bin\Debug\Iau.NotifCenter.UnitTest.dll.config
+c:\users\behzad\documents\visual studio 2015\Projects\Iau.NotifCenter\Iau.NotifCenter.UnitTest\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\behzad\documents\visual studio 2015\Projects\Iau.NotifCenter\Iau.NotifCenter.UnitTest\bin\Debug\EntityFramework.SqlServer.xml
